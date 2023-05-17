@@ -1,4 +1,4 @@
-# Arny
+# 
 
 Discord: あかりん#0001
 Steam: [Link](https://steamcommunity.com/id/kawaiifuturebass/)<br />
