@@ -1,6 +1,6 @@
 # 
 
-Discord: あかりん#0001
+Discord: boppinluna
 Steam: [Link](https://steamcommunity.com/id/kawaiifuturebass/)<br />
 [Website](https://deko.moe)
 
