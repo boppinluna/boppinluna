@@ -1,4 +1,5 @@
-/*var images = [
+var images = [
+    'LHlnm1R.png',
     'rwRzJ14.jpg', 'DDLuMXM.png', 'cq3IynI.jpg', 'HzieDba.jpg', 'pYA8fRa.jpg',
     'm7VEGQ2.jpg', 'hoGtxLr.jpg', 'Hd6mDRV.jpg', '4Vf90NL.jpg', 'YyFbQLh.jpg',
     'XjNNedB.jpg', 'DvkXAlO.jpg', 'WAo642t.jpg', 'vzsX9MK.jpg', 'w90x5s3.jpg',
@@ -22,7 +23,7 @@
 var image = images[Math.floor(Math.random() * images.length)];
 $('body').css({
     'background-image' : 'linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://i.imgur.com/' + image + '")',
-});*/
+});
 
 var sakura = new Sakura('body', {
     fallSpeed: 1
