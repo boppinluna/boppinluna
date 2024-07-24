@@ -1,3 +1,12 @@
+@font-face {
+    font-family: 'SweetCupcake';
+    src: url('../fonts/rosetta.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* rosetta, strawberrymuffins, takecoffee */
+
 html {
 	background-color: white;
 }
@@ -10,6 +19,8 @@ body {
 	background-position: center;
 	transform: opacity 0;
 	overflow: hidden;
+	font-family: 'SweetCupcake', sans-serif;
+	font-size: 16px;
 }
 
 .card {
